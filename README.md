@@ -24,7 +24,9 @@
 2022.04 ~ 2025.01 `효성중학교 방송부`<br>
 2025.03 ~ 2025.08 `경북소프트웨어마이스터고 1학년 반장`<br>
 2025.03 ~ NOW `경북소프트웨어마이스터고 방송부`<br>
-2025.03 ~ NOW `경북소프트웨어마이스터고 기숙사부`<br>
+2025.03 ~ 2026.03 `경북소프트웨어마이스터고 기숙사부`<br>
+2026.02 ~ 2026.02 `A&K Systems Intern`<br>
+2026.03 ~ 2026.08 `경북소프트웨어마이스터고 2학년 반장`<br>
 
 # solved.ac
 [![Solved.ac Profile](https://mazassumnida.wtf/api/generate_badge?boj=ignatius)](https://solved.ac/ignatius)
